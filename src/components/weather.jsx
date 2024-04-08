@@ -15,7 +15,7 @@ const Weather = () => {
           <option>City</option>
           <option>City</option>
         </select>
-        <div className="flex items-center justify-center gap-">
+        <div className="flex items-center justify-center">
           <input
             type="text"
             placeholder="Search"
